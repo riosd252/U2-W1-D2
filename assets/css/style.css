@@ -95,9 +95,9 @@ h1 span {
 
 span img {
   position: absolute;
-  bottom: -3px;
+  bottom: -7px;
   left: 5px;
-  width: 230px;
+  width: 100%;
 }
 
 #html-logo {
